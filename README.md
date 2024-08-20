@@ -6,14 +6,14 @@
 - 🌍 I'm from Chile!
 - 🌱 I'm currently learning React.
 - 🤝 I'm looking to collaborate on any project that requires help!
-- 📧 How to reach me: [Discord - ak_franki](https://discord.gg/newdayroleplay) | [E-Mail](mailto:tu-email@ejemplo.com)
+- 📧 How to reach me: [Discord - ak_franki](https://discord.gg/newdayroleplay) | [E-Mail](mendezlazofranco@gmail.com)
 
 ---
 
 ### 🛠️ Tech Stack
 
 - **Backend:** Python, Node.js, Lua
-- **Frontend:** HTML/CSS, JavaScript
+- **Frontend:** HTML/CSS, JavaScript, TypeScript, React
 
 ---
 
