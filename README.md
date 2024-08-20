@@ -1,4 +1,7 @@
-## <span style="color:#ff6347;">Hi I am Franco Méndez 👋</span>
+<h2 align="center">
+  <span style="color: #FF69B4;">Hi I am Franco Méndez 👋</span><br>
+  <span style="color: #8A2BE2;">I'm here to help!</span>
+</h2>
 
 **I'm here to help!**
 
