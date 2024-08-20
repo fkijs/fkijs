@@ -10,6 +10,6 @@
 
 ---
 
-![Franco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=frankijs&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=frankijs&layout=compact&theme=dark)
+![Franco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkijs&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkijs&layout=compact&theme=dark)
 
