@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am Franco Méndez 👋
 
 **I'm here to help!**
 
@@ -6,7 +6,7 @@
 - 🌍 I'm from Chile!
 - 🌱 I'm currently learning React.
 - 🤝 I'm looking to collaborate on any project that requires help!
-- 📧 How to reach me: [Discord - ak_franki](https://discord.gg/newdayroleplay) | [E-Mail](mendezlazofranco@gmail.com)
+- 📧 How to reach me: [Discord - ak_franki](https://discord.gg/newdayroleplay) | [E-Mail](mendezlazofranco@gmail.com) | [Web](https://www.frankijs.online)
 
 ---
 
