@@ -6,10 +6,17 @@
 - 🌍 I'm from Chile!
 - 🌱 I'm currently learning React.
 - 🤝 I'm looking to collaborate on any project that requires help!
-- 📧 How to reach me: [Discord - ak_franki](https://discord.gg/newdayroleplay) | [E-Mail](mendezlazofranco@gmail.com)
+- 📧 How to reach me: [Discord - ak_franki](https://discord.gg/newdayroleplay) | [E-Mail](mailto:tu-email@ejemplo.com)
+
+---
+
+### 🛠️ Tech Stack
+
+- **Backend:** Python, Node.js, Lua
+- **Frontend:** HTML/CSS, JavaScript
 
 ---
 
 ![Franco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fkijs&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkijs&layout=compact&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fkijs&layout=compact&theme=dark)
