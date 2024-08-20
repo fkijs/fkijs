@@ -1,5 +1,5 @@
 <h2 align="center">
-  <span style="color: #FF69B4;">Hi I am Franco Méndez 👋</span><br>
+  <span style="color: #FF69B4;">Hi, I'm Franco Méndez. 👋</span><br>
 </h2>
 
 **I'm here to help!**
