@@ -38,14 +38,18 @@
 
 ---
 
-### 📊 GitHub Stats
-
-### 📈 GitHub Insights
+### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fkijs&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=Franco%20M%C3%A9ndez's%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fkijs&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkijs&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fkijs&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fkijs&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fkijs&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fkijs&theme=tokyonight&utcOffset=0" />
 </p>
