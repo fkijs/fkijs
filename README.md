@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, I'm Franco Méndez</h1>
 <p align="center">
-Developer | FiveM Scripter | Frontend Specialist  
 </p>
 
 ---
