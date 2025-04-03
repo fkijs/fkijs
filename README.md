@@ -40,8 +40,12 @@
 
 ### 📊 GitHub Stats
 
+### 📈 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fkijs&show_icons=true&theme=dark" alt="Franco's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkijs&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fkijs&show_icons=true&theme=radical&hide=prs,issues,contribs&custom_title=Franco%20M%C3%A9ndez's%20GitHub%20Stats" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkijs&layout=compact&theme=radical&langs_count=8&hide=Jupyter%20Notebook" alt="Top Languages" />
 </p>
