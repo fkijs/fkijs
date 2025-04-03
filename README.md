@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Franco Méndez</h1>
 <p align="center">
-  Full-Stack Developer | FiveM Scripter | Frontend Specialist  
+Developer | FiveM Scripter | Frontend Specialist  
 </p>
 
 ---
